@@ -3,4 +3,4 @@
 -- Expected result:
 -- 2935
 
-
+SELECT year, name, hits FROM team
